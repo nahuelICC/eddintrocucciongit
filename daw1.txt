@@ -1,3 +1,4 @@
-a = 2 
+a = 3
+b = 3
 if (a==2):
-	print("True")
+	a=5
